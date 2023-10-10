@@ -1,0 +1,16 @@
+li:nth-child(1) {
+  margin-right: auto; /*applied only to the right*/
+}
+
+ul {
+  display: flex;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  flex: 0 0 auto;
+  margin: 8px;
+  color: #fff;
+  padding: 4px;
+}
